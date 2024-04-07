@@ -41,4 +41,4 @@ Utilized **Power BI** to analyze the Amazon Prime titles dataset, focusing on vi
 Undertook a thorough investigation into Diwali consumer behavior, employing Python as the principal analytical tool. Leveraging Python libraries, I proficiently processed and visualized data, ensuring precision and effectiveness throughout the analysis. By scrutinizing customer transactions during the Diwali festivities, I extracted valuable insights into consumer preferences, spending habits, and purchasing behaviors. These insights were translated into actionable recommendations aimed at refining sales and marketing strategies, tailored to maximize engagement and capitalize on opportunities during the festive season, thus facilitating informed decision-making and optimizing business performance.
 
 ## Acheivements
-1. Developed and published the UPI Transactions Dataset on Kaggle, receiving recognition with a Bronze medal [Kaggle](https://www.kaggle.com/datasets/bijitda/upi-transactions-dataset)
+1. Developed and published the UPI Transactions Dataset on [Kaggle](https://www.kaggle.com/datasets/bijitda/upi-transactions-dataset), receiving recognition with a Bronze medal.
