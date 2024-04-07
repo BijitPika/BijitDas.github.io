@@ -12,9 +12,13 @@
 - X|St. Agastya High School, Dhubri (2014)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Technical Consulting Engineer @ Cisco Systems India Pvt Ltd (_Oct 2022 - Oct 2023_)**
+ -Troubleshoot and diagnose the root cause of various hardware and software issues.
+ -Collaborated on cases related to OSPF, ISIS, and BGP.
+ -Demonstrated a basic understanding of MPLS, L2 and L3 VPN technologies.
+ -Utilized Cisco TAC Tools to streamline problem resolution.
+ -Executed upgrades or downgrades of XE and XR devices when required.
+ -Conducted lab tests to replicate and address defects’ root causes.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
