@@ -13,8 +13,8 @@
 
 ## Work Experience
 **Technical Consulting Engineer @ Cisco Systems India Pvt Ltd (_Oct 2022 - Oct 2023_)**
--Troubleshoot and diagnose the root cause of various hardware and software issues.
--Collaborated on cases related to OSPF, ISIS, and BGP.
+- Troubleshoot and diagnose the root cause of various hardware and software issues
+- Collaborated on cases related to OSPF, ISIS, and BGP
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
