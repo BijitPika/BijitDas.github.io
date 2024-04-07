@@ -8,25 +8,25 @@
 
 ## Education
 - #### B.Tech,IT | Central Institute of Technology, Kokrajhar (2022)						       		
-- XII,Science|Govt. Boys HS School, Dhubri (2016)	 			        		
-- X|St. Agastya High School, Dhubri (2014)
+- #### XII,Science | Govt. Boys HS School, Dhubri (2016)	 			        		
+- #### X | St. Agastya High School, Dhubri (2014)
 
 ## Work Experience
 **Technical Consulting Engineer @ Cisco Systems India Pvt Ltd (_Oct 2022 - Oct 2023_)**
-- Troubleshoot and diagnose the root cause of various hardware and software issues
-- Collaborated on cases related to OSPF, ISIS, and BGP
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Troubleshoot and diagnose the root cause of various hardware and software issues.
+- Collaborated on cases related to OSPF, ISIS, and BGP.
+- Demonstrated a basic understanding of MPLS, L2 and L3 VPN technologies.
+- Utilized Cisco TAC Tools to streamline problem resolution.
+- Executed upgrades or downgrades of XE and XR devices when required.
+- Conducted lab tests to replicate and address defects’ root causes.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Personal Financial Insight
+[Publication](https://github.com/BijitPika/My-transaction-dashboard)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+During 2023, meticulously analyzed personal UPI transaction data extracted from HDFC bank statements. Leveraged MS Excel for meticulous data refinement, transformation, and categorization processes. Crafted an interactive Power BI dashboard to provide insightful visual representations of spending patterns. Shared the refined dataset on Kaggle for collaborative analysis within the community. Discovered significant insights into personal spending behaviors, contributing to informed financial decision-making.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Insight Visualization with Power Bi](Screenshot 2024-03-27 031148.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
