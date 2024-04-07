@@ -7,9 +7,9 @@
 
 
 ## Education
-- B.Tech , IT | Central Institute of Technology, Kokrajhar (2018 - 2022)						       		
-- XII, Science	| Govt. Boys HS School, Dhubri (2014 - 2016)	 			        		
-- X | St. Agastya High School, Dhubri (2014)
+- B.Tech,IT|Central Institute of Technology, Kokrajhar (2022)						       		
+- XII,Science|Govt. Boys HS School, Dhubri (2016)	 			        		
+- X|St. Agastya High School, Dhubri (2014)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
