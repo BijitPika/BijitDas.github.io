@@ -7,7 +7,7 @@
 
 
 ## Education
-- B.Tech,IT|Central Institute of Technology, Kokrajhar (2022)						       		
+- #### B.Tech,IT | Central Institute of Technology, Kokrajhar (2022)						       		
 - XII,Science|Govt. Boys HS School, Dhubri (2016)	 			        		
 - X|St. Agastya High School, Dhubri (2014)
 
